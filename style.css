@@ -1,0 +1,43 @@
+h1{
+	color: white;
+	font-size: 75px;	
+	text-align: Center;
+}
+body{ background-color:blueviolet; 
+	font-family: ;
+}
+ul {list-style-type:none;
+	margin: 0;
+	padding: 0;
+overflow: hidden;
+position: relative;
+top: 0;
+background-color: white;
+}
+li {
+	float: left;
+}
+li a {
+	color: Black;
+	float: left;
+	text-align: center;
+	font-size: 30px;
+	padding: 20px;
+
+}
+li a:hover{
+	color: white;
+	background-color: blueviolet;
+	text-decoration: none;
+}
+
+div.section{
+	display: block;
+	background-color: blueviolet;
+	padding: 10px;
+	border: 5px;
+	border-color: White;
+	border-style: solid;
+
+}
+
